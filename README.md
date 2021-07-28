@@ -1,2 +1,3 @@
-# Digital-Signal-and-Image-Processing-Lab
+# DIGITAL SIGNAL-AND IMAGE PROCESSING LAB
  DSIP LAB [SEMESTER VII]
+
