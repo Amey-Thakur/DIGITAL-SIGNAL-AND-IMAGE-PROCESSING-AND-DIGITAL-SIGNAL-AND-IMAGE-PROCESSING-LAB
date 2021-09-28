@@ -18,4 +18,6 @@
 
   >DIGITAL SIGNAL & IMAGE PROCESSING
 
-  - [Practice Assignment](https://github.com/Amey-Thakur/DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-AND-DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-LAB/blob/main/Assignments/Amey_B-50_Assignment.pdf)
+  - [DSIP Assignment - 1](https://github.com/Amey-Thakur/DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-AND-DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-LAB/blob/main/Assignments/AMEY_B-50_DSIP_ASSIGNMENT-1.pdf)
+  - [DSIP Assignment - 2](https://github.com/Amey-Thakur/DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-AND-DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-LAB/blob/main/Assignments/AMEY_B-50_DSIP_ASSIGNMENT-2.pdf)
+  - [DSIP Assignment - 3](https://github.com/Amey-Thakur/DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-AND-DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-LAB/blob/main/Assignments/AMEY_B-50_DSIP_ASSIGNMENT-3.pdf)
