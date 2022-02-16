@@ -37,4 +37,3 @@
 
 ## Question Papers
  - [Previous Question Papers](https://github.com/Amey-Thakur/DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-AND-DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-LAB/tree/main/Question%20Papers)
-
