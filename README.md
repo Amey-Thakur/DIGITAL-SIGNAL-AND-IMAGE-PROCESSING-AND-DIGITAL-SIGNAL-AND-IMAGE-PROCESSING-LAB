@@ -1,5 +1,5 @@
 # DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-AND-DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-LAB
- CSC701: DSIP & CSL701: DSIP LAB [SEMESTER VII]
+ 👍🏻 CSC701: DSIP & CSL701: DSIP LAB [SEMESTER VII]
 
 ---
  
@@ -60,3 +60,9 @@
 ## Question Papers
  
  - [Previous Question Papers](https://github.com/Amey-Thakur/DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-AND-DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-LAB/tree/main/Question%20Papers)
+
+---
+
+<p align="center"> <b> 👉🏻 Subject as a part of the 7th Semester of Engineering @ University of Mumbai 👈🏻 <b> </p>
+ 
+<p align="center"><a href='https://github.com/Amey-Thakur/ACHIEVEMENTS#engineering', style='color: greenyellow;'> ✌🏻 Back To Engineering ✌🏻</p>
