@@ -1,6 +1,4 @@
-% ============================================================================
 % EXPERIMENT - 2: CIRCULAR CONVOLUTION
-% ============================================================================
 %
 % Author: Amey Thakur
 % GitHub: https://github.com/Amey-Thakur
@@ -15,14 +13,9 @@
 % This program demonstrates Circular Convolution using the DFT/IDFT approach.
 % Circular convolution is computed by multiplying the DFTs of two sequences
 % and taking the inverse DFT of the result. Unlike linear convolution, both
-% sequences must have the same length. The formula is: y[n] = IDFT(X[k] * H[k])
-% where X[k] and H[k] are the DFTs of x[n] and h[n] respectively.
-%
-% ============================================================================
+% sequences must have the same length.
 
-% ============================================================================
 % INPUT SIGNAL DEFINITION
-% ============================================================================
 
 % Define input sequence x[n]
 % Note: Both sequences must have the same length for circular convolution
@@ -30,11 +23,7 @@ Xn = [0 1 2 3];
 
 % Define impulse response h[n] Yn = [1 2 0 - 1];
 
-% == == == == == == == == == == == == == == == == == == == == == == == == == ==
-    == == == == == == == == == == == ==
-    % CIRCULAR CONVOLUTION USING DFT / IDFT % == == == == == == == == == == ==
-    == == == == == == == == == == == == == == == == == == == == == == == == ==
-    == ==
+% CIRCULAR CONVOLUTION USING DFT / IDFT
 
     % Step 1
     : Compute DFT of input sequence x[n] %
@@ -50,9 +39,7 @@ Xn = [0 1 2 3];
            IFFT(Inverse FFT)
                transforms frequency domain back to time domain T = ifft(C);
 
-% ============================================================================
 % VISUALIZATION: CIRCULAR CONVOLUTION RESULT
-% ============================================================================
 
 % Generate sample index vector for plotting
 n = 1:length(T);
@@ -63,10 +50,7 @@ stem(n, T, 'filled');
 
 % Add descriptive labels xlabel('n (Sample Index)');
 ylabel('y[n] (Amplitude)');
-title('Circular Convolution Result: y[n] = IDFT(X[k] \cdot H[k])');
+title('Circular Convolution Result');
 grid on;
 
-% == == == == == == == == == == == == == == == == == == == == == == == == == ==
-    == == == == == == == == == == == == % END OF PROGRAM % == == == == == == ==
-    == == == == == == == == == == == == == == == == == == == == == == == == ==
-    == == == == == ==
+% END OF PROGRAM
