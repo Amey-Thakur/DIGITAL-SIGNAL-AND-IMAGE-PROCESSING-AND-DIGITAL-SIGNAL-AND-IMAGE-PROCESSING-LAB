@@ -113,7 +113,6 @@ The laboratory component (CSL701) focuses on hands-on implementation of signal p
 </div>
 
 > [!TIP]
-> [!TIP]
 > **Implementation Note**: A critical distinction in this lab is array indexing. **MATLAB uses 1-based indexing**, whereas standard DSP theory and **Python use 0-based indexing**. Always account for this offset when implementing difference equations, signal shifting, and convolution algorithms to ensure mathematical accuracy.
 
 | # | Experiment | Date | Marks | Report |
