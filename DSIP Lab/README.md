@@ -75,7 +75,7 @@
 
 Sampling and Reconstruction of a Signal
 
-**Date:** 28/07/2021
+**Date:** July 28, 2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
@@ -91,7 +91,7 @@ Sampling and Reconstruction of a Signal
 
 Linear and Circular Convolution of Discrete Signals
 
-**Date:** 30/07/2021
+**Date:** July 30, 2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
@@ -107,7 +107,7 @@ Linear and Circular Convolution of Discrete Signals
 
 Discrete Correlation of Signals
 
-**Date:** 11/08/2021
+**Date:** August 11, 2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
@@ -123,7 +123,7 @@ Discrete Correlation of Signals
 
 Discrete Fourier Transform (DFT) of a Sequence
 
-**Date:** 04/08/2021
+**Date:** August 04, 2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
