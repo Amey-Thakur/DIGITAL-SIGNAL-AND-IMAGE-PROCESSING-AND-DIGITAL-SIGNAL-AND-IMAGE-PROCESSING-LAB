@@ -141,10 +141,12 @@ Discrete Correlation of Signals
 
 **Date:** August 11, 2021
 
-| # | Document | Description | Link |
+| # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-3/AMEY_B-50_DSIP_EXPERIMENT-3.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Experiment-3/AMEY_B-50_DSIP_EXPERIMENT-3.docx) |
+| 1 | Auto_Correlation.m | MATLAB implementation for auto-correlation | [View](Experiment-3/Auto_Correlation.m) |
+| 2 | Cross_Correlation.m | MATLAB implementation for cross-correlation | [View](Experiment-3/Cross_Correlation.m) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-3/AMEY_B-50_DSIP_EXPERIMENT-3.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-3/AMEY_B-50_DSIP_EXPERIMENT-3.docx) |
 
 ---
 
@@ -157,10 +159,11 @@ Discrete Fourier Transform (DFT) of a Sequence
 
 **Date:** August 04, 2021
 
-| # | Document | Description | Link |
+| # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-4/AMEY_B-50_DSIP_EXPERIMENT-4.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Experiment-4/AMEY_B-50_DSIP_EXPERIMENT-4.docx) |
+| 1 | Discrete_Fourier_Transform.m | MATLAB implementation for DFT | [View](Experiment-4/Discrete_Fourier_Transform.m) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-4/AMEY_B-50_DSIP_EXPERIMENT-4.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-4/AMEY_B-50_DSIP_EXPERIMENT-4.docx) |
 
 ---
 
@@ -173,10 +176,12 @@ Radix-2 DIT FFT Algorithm.
 
 **Date:** August 25, 2021
 
-| # | Document | Description | Link |
+| # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-5/AMEY_B-50_DSIP_EXPERIMENT-5.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Experiment-5/AMEY_B-50_DSIP_EXPERIMENT-5.docx) |
+| 1 | Radix2_DIT_FFT.m | MATLAB implementation for Radix-2 DIT FFT | [View](Experiment-5/Radix2_DIT_FFT.m) |
+| 2 | Radix2_DIT_Kernal.m | FFT kernel implementation | [View](Experiment-5/Radix2_DIT_Kernal.m) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-5/AMEY_B-50_DSIP_EXPERIMENT-5.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-5/AMEY_B-50_DSIP_EXPERIMENT-5.docx) |
 
 ---
 
@@ -189,10 +194,12 @@ Image Negative, Gray Level Slicing and Thresholding.
 
 **Date:** September 01, 2021
 
-| # | Document | Description | Link |
+| # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-6/AMEY_B-50_DSIP_EXPERIMENT-6.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Experiment-6/AMEY_B-50_DSIP_EXPERIMENT-6.docx) |
+| 1 | Image_Enhancement.m | MATLAB implementation for image negative and thresholding | [View](Experiment-6/Image_Enhancement.m) |
+| 2 | Gray_Level_Slicing.m | Gray level slicing implementation | [View](Experiment-6/Gray_Level_Slicing.m) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-6/AMEY_B-50_DSIP_EXPERIMENT-6.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-6/AMEY_B-50_DSIP_EXPERIMENT-6.docx) |
 
 ---
 
@@ -205,10 +212,12 @@ Contrast Stretching, Dynamic Range Compression and Bit Plane Slicing.
 
 **Date:** September 08, 2021
 
-| # | Document | Description | Link |
+| # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-7/AMEY_B-50_DSIP_EXPERIMENT-7.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Experiment-7/AMEY_B-50_DSIP_EXPERIMENT-7.docx) |
+| 1 | Contrast_Stretching.m | MATLAB implementation for contrast stretching | [View](Experiment-7/Contrast_Stretching.m) |
+| 2 | Bit_Plane_Slicing.m | Bit plane slicing implementation | [View](Experiment-7/Bit_Plane_Slicing.m) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-7/AMEY_B-50_DSIP_EXPERIMENT-7.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-7/AMEY_B-50_DSIP_EXPERIMENT-7.docx) |
 
 ---
 
@@ -221,10 +230,11 @@ Histogram Processing of an Image.
 
 **Date:** September 15, 2021
 
-| # | Document | Description | Link |
+| # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-8/AMEY_B-50_DSIP_EXPERIMENT-8.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Experiment-8/AMEY_B-50_DSIP_EXPERIMENT-8.docx) |
+| 1 | Histogram_Processing.m | MATLAB implementation for histogram processing | [View](Experiment-8/Histogram_Processing.m) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-8/AMEY_B-50_DSIP_EXPERIMENT-8.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-8/AMEY_B-50_DSIP_EXPERIMENT-8.docx) |
 
 ---
 
@@ -237,10 +247,12 @@ Image Smoothing and Image Sharpening.
 
 **Date:** October 06, 2021
 
-| # | Document | Description | Link |
+| # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-9/AMEY_B-50_DSIP_EXPERIMENT-9.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Experiment-9/AMEY_B-50_DSIP_EXPERIMENT-9.docx) |
+| 1 | Image_Smoothing.m | MATLAB implementation for image smoothing filters | [View](Experiment-9/Image_Smoothing.m) |
+| 2 | Image_Sharpening.m | MATLAB implementation for image sharpening filters | [View](Experiment-9/Image_Sharpening.m) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-9/AMEY_B-50_DSIP_EXPERIMENT-9.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-9/AMEY_B-50_DSIP_EXPERIMENT-9.docx) |
 
 ---
 
@@ -253,10 +265,11 @@ Edge Detection using Sobel and Prewitt Masks.
 
 **Date:** October 06, 2021
 
-| # | Document | Description | Link |
+| # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-10/AMEY_B-50_DSIP_EXPERIMENT-10.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Experiment-10/AMEY_B-50_DSIP_EXPERIMENT-10.docx) |
+| 1 | Edge_Detection.m | MATLAB implementation for edge detection using Sobel and Prewitt | [View](Experiment-10/Edge_Detection.m) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-10/AMEY_B-50_DSIP_EXPERIMENT-10.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-10/AMEY_B-50_DSIP_EXPERIMENT-10.docx) |
 
 ---
 
