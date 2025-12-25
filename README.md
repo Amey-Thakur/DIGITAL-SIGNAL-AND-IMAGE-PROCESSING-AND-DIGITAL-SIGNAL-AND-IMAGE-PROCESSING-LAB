@@ -115,18 +115,18 @@ The laboratory component (CSL701) focuses on hands-on implementation of signal p
 > [!TIP]
 > **Implementation Note**: A critical distinction in this lab is array indexing. **MATLAB uses 1-based indexing**, whereas standard DSP theory and **Python use 0-based indexing**. Always account for this offset when implementing difference equations, signal shifting, and convolution algorithms to ensure mathematical accuracy.
 
-| # | Experiment | Date | Marks | Report |
-|:-:|:---|:---:|:---:|:-:|
-| 1 | Simulation of Sampling Theorem and Reconstruction of Signal | 14/07/2021 | 10/10 | [View](DSIP%20Lab/Experiment-1/AMEY_B-50_DSIP_EXPERIMENT-1.pdf) |
-| 2 | Implementation of Linear and Circular Convolution | 28/07/2021 | 10/10 | [View](DSIP%20Lab/Experiment-2/AMEY_B-50_DSIP_EXPERIMENT-2.pdf) |
-| 3 | Implementation of Auto and Cross Correlation | 04/08/2021 | 10/10 | [View](DSIP%20Lab/Experiment-3/AMEY_B-50_DSIP_EXPERIMENT-3.pdf) |
-| 4 | Implementation of Discrete Fourier Transform (DFT) | 11/08/2021 | 10/10 | [View](DSIP%20Lab/Experiment-4/AMEY_B-50_DSIP_EXPERIMENT-4.pdf) |
-| 5 | Implementation of Fast Fourier Transform (FFT) | 25/08/2021 | 10/10 | [View](DSIP%20Lab/Experiment-5/AMEY_B-50_DSIP_EXPERIMENT-5.pdf) |
-| 6 | Image Negation, Thresholding, and Gray Level Slicing | 01/09/2021 | 10/10 | [View](DSIP%20Lab/Experiment-6/AMEY_B-50_DSIP_EXPERIMENT-6.pdf) |
-| 7 | Contrast Stretching, Dynamic Range Compression, and Bit Plane Slicing | 08/09/2021 | 10/10 | [View](DSIP%20Lab/Experiment-7/AMEY_B-50_DSIP_EXPERIMENT-7.pdf) |
-| 8 | Implementation of Histogram Processing | 15/09/2021 | 10/10 | [View](DSIP%20Lab/Experiment-8/AMEY_B-50_DSIP_EXPERIMENT-8.pdf) |
-| 9 | Implementation of Image Smoothing and Sharpening | 06/10/2021 | 10/10 | [View](DSIP%20Lab/Experiment-9/AMEY_B-50_DSIP_EXPERIMENT-9.pdf) |
-| 10 | Implementation of Edge Detection (Sobel and Prewitt) | 06/10/2021 | 10/10 | [View](DSIP%20Lab/Experiment-10/AMEY_B-50_DSIP_EXPERIMENT-10.pdf) |
+| # | Experiment | Date | Report |
+|:-:|:---|:---:|:-:|
+| 1 | Sampling and Reconstruction of a Signal | 28/07/2021 | [View](DSIP%20Lab/Experiment-1/AMEY_B-50_DSIP_EXPERIMENT-1.pdf) |
+| 2 | Linear and Circular Convolution of Discrete Signals | 30/07/2021 | [View](DSIP%20Lab/Experiment-2/AMEY_B-50_DSIP_EXPERIMENT-2.pdf) |
+| 3 | Discrete Correlation of Signals | 11/08/2021 | [View](DSIP%20Lab/Experiment-3/AMEY_B-50_DSIP_EXPERIMENT-3.pdf) |
+| 4 | Discrete Fourier Transform (DFT) of a Sequence | 04/08/2021 | [View](DSIP%20Lab/Experiment-4/AMEY_B-50_DSIP_EXPERIMENT-4.pdf) |
+| 5 | Radix-2 DIT FFT Algorithm | 25/08/2021 | [View](DSIP%20Lab/Experiment-5/AMEY_B-50_DSIP_EXPERIMENT-5.pdf) |
+| 6 | Image Negative, Gray Level Slicing and Thresholding | 01/09/2021 | [View](DSIP%20Lab/Experiment-6/AMEY_B-50_DSIP_EXPERIMENT-6.pdf) |
+| 7 | Contrast Stretching, Dynamic Range Compression and Bit Plane Slicing | 08/09/2021 | [View](DSIP%20Lab/Experiment-7/AMEY_B-50_DSIP_EXPERIMENT-7.pdf) |
+| 8 | Histogram Processing of an Image | 15/09/2021 | [View](DSIP%20Lab/Experiment-8/AMEY_B-50_DSIP_EXPERIMENT-8.pdf) |
+| 9 | Image Smoothing and Image Sharpening | 06/10/2021 | [View](DSIP%20Lab/Experiment-9/AMEY_B-50_DSIP_EXPERIMENT-9.pdf) |
+| 10 | Edge Detection using Sobel and Prewitt Masks | 06/10/2021 | [View](DSIP%20Lab/Experiment-10/AMEY_B-50_DSIP_EXPERIMENT-10.pdf) |
 
 ### Program Details
 
