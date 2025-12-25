@@ -7,7 +7,7 @@
 
   # Digital Signal and Image Processing and Digital Signal and Image Processing Lab
 
-  ### CSC703 & CSL703 · Semester VII · Computer Engineering
+  ### CSC701 & CSL701 · Semester VII · Computer Engineering
 
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
   [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
@@ -29,7 +29,7 @@
      ========================================================================================= -->
 ## Overview
 
-Digital Signal and Image Processing (CSC703) and Digital Signal and Image Processing Lab (CSL703) are core subjects in the Final Year (Semester VII) of the Computer Engineering curriculum at the University of Mumbai. These courses provide foundational knowledge of signal processing techniques, image enhancement, restoration, compression, and segmentation algorithms.
+Digital Signal and Image Processing (CSC701) and Digital Signal and Image Processing Lab (CSL701) are core subjects in the Final Year (Semester VII) of the Computer Engineering curriculum at the University of Mumbai. These courses provide foundational knowledge of signal processing techniques, image enhancement, restoration, compression, and segmentation algorithms.
 
 ### Course Topics
 
@@ -100,7 +100,7 @@ Academic assignments for comprehensive learning and practice:
      ========================================================================================= -->
 ## Digital Signal and Image Processing Laboratory
 
-The laboratory component (CSL703) focuses on hands-on implementation of signal processing algorithms and image processing techniques using MATLAB/Python.
+The laboratory component (CSL701) focuses on hands-on implementation of signal processing algorithms and image processing techniques using MATLAB/Python.
 
 <div align="center">
 
