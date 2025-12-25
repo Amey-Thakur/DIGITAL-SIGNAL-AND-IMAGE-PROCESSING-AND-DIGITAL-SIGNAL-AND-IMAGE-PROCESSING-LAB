@@ -108,7 +108,7 @@ The laboratory component (CSL701) focuses on hands-on implementation of signal p
 
   [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](DSIP%20Lab/)
   [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](DSIP%20Lab/)
-  [![Language](https://img.shields.io/badge/Language-MATLAB%20%7C%20Python-blueviolet.svg)](DSIP%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-MATLAB%20%7C%20Python-orange.svg)](DSIP%20Lab/)
 
 </div>
 
