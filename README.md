@@ -258,7 +258,7 @@ Internal assessment evaluations conducted during the course:
 
 | # | Resource | Description |
 |:-:|:---|:---|
-| 1 | [Marksheet](Internal%20Assessment%20Test/Terna%20Mail%20-%20marks%20IAT-1.pdf) | IA1 Marksheet (BE COMP B) |
+| 1 | [Marksheet](Internal%20Assessment%20Test/Terna%20Mail%20-%20marks%20IAT-1.pdf) | IAT-1 Marksheet (BE COMP B) |
 
 ---
 
