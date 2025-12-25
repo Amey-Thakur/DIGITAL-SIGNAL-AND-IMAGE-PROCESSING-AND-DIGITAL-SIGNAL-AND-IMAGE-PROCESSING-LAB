@@ -14,11 +14,11 @@
   [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
 
-  **A comprehensive academic resource for Digital Signal and Image Processing (DSIP) and Digital Signal and Image Processing Laboratory (DSIP Lab), covering signals, systems, dft, fft, image enhancement, and lab experiments.**
+  **A comprehensive academic resource for Digital Signal and Image Processing (DSIP) and Digital Signal and Image Processing Laboratory (DSIP Lab), covering signals, systems, DFT, FFT, image enhancement, and segmentation algorithms.**
 
   ---
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Laboratory](#digital-signal-and-image-processing-laboratory) &nbsp;·&nbsp; [IAT](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Laboratory](#digital-signal-and-image-processing-laboratory) &nbsp;·&nbsp; [Internal Assessment Test](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -46,7 +46,7 @@ The curriculum encompasses several key domains in DSIP:
 
 This repository represents a curated collection of study materials, reference books, lab experiments, and personal preparation notes compiled during my academic journey. The primary motivation for creating and maintaining this archive is simple yet profound: **to preserve knowledge for continuous learning and future reference**.
 
-As a computer engineer, understanding signal and image processing principles is crucial for building robust systems in computer vision and multimedia. This repository serves as my intellectual reference point.
+As a computer engineer, understanding signal and image processing principles is crucial for building robust systems in computer vision and multimedia. This repository serves as my intellectual reference point: a resource I can return to for relearning concepts, reviewing methodologies, and strengthening understanding when needed.
 
 **Why this repository exists:**
 
@@ -88,10 +88,10 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Description | Report |
 |:-:|:---|:---|:-:|
-| 1 | Assignment 1 | Fundamentals of Signals and Systems | [View](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-1.pdf) |
-| 2 | Assignment 2 | DFT, FFT, and Transform Analysis | [View](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-2.pdf) |
-| 3 | Assignment 3 | Image Enhancement and Restoration | [View](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-3.pdf) |
-| 4 | Assignment 4 | Image Segmentation and Compression | [View](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-4.pdf) |
+| 1 | [**Assignment 1**](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-1.pdf) | Fundamentals of Signals and Systems | [View](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-1.pdf) |
+| 2 | [**Assignment 2**](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-2.pdf) | DFT, FFT, and Transform Analysis | [View](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-2.pdf) |
+| 3 | [**Assignment 3**](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-3.pdf) | Image Enhancement and Restoration | [View](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-3.pdf) |
+| 4 | [**Assignment 4**](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-4.pdf) | Image Segmentation and Compression | [View](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-4.pdf) |
 
 ---
 
@@ -112,6 +112,120 @@ The laboratory component (CSL703) focuses on hands-on implementation of signal p
 
 > [!TIP]
 > **Lab Insight**: This laboratory curriculum progresses from 1D signal processing (Sampling, Convolution, DFT) to 2D image processing (Enhancement, Restoration, Segmentation), bridging theoretical concepts with practical implementation.
+
+| # | Experiment | Date | Marks | Report |
+|:-:|:---|:---:|:---:|:-:|
+| 1 | Simulation of Sampling Theorem and Reconstruction of Signal | 14/07/2021 | 10/10 | [View](DSIP%20Lab/Experiment-1/AMEY_B-50_DSIP_EXPERIMENT-1.pdf) |
+| 2 | Implementation of Linear and Circular Convolution | 28/07/2021 | 10/10 | [View](DSIP%20Lab/Experiment-2/AMEY_B-50_DSIP_EXPERIMENT-2.pdf) |
+| 3 | Implementation of Auto and Cross Correlation | 04/08/2021 | 10/10 | [View](DSIP%20Lab/Experiment-3/AMEY_B-50_DSIP_EXPERIMENT-3.pdf) |
+| 4 | Implementation of Discrete Fourier Transform (DFT) | 11/08/2021 | 10/10 | [View](DSIP%20Lab/Experiment-4/AMEY_B-50_DSIP_EXPERIMENT-4.pdf) |
+| 5 | Implementation of Fast Fourier Transform (FFT) | 25/08/2021 | 10/10 | [View](DSIP%20Lab/Experiment-5/AMEY_B-50_DSIP_EXPERIMENT-5.pdf) |
+| 6 | Image Negation, Thresholding, and Gray Level Slicing | 01/09/2021 | 10/10 | [View](DSIP%20Lab/Experiment-6/AMEY_B-50_DSIP_EXPERIMENT-6.pdf) |
+| 7 | Contrast Stretching, Dynamic Range Compression, and Bit Plane Slicing | 08/09/2021 | 10/10 | [View](DSIP%20Lab/Experiment-7/AMEY_B-50_DSIP_EXPERIMENT-7.pdf) |
+| 8 | Implementation of Histogram Processing | 15/09/2021 | 10/10 | [View](DSIP%20Lab/Experiment-8/AMEY_B-50_DSIP_EXPERIMENT-8.pdf) |
+| 9 | Implementation of Image Smoothing and Sharpening | 06/10/2021 | 10/10 | [View](DSIP%20Lab/Experiment-9/AMEY_B-50_DSIP_EXPERIMENT-9.pdf) |
+| 10 | Implementation of Edge Detection (Sobel and Prewitt) | 06/10/2021 | 10/10 | [View](DSIP%20Lab/Experiment-10/AMEY_B-50_DSIP_EXPERIMENT-10.pdf) |
+
+### Program Details
+
+<details>
+<summary><b>Experiment 1: Sampling and Reconstruction (2 Programs)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Sampling_Reconstruction.m` | DSP | MATLAB Implementation of Sampling Theorem | [View](DSIP%20Lab/Experiment-1/Sampling_Reconstruction.m) |
+| `Sampling_Reconstruction.ipynb` | DSP | Python Implementation (Jupyter Notebook) | [View](DSIP%20Lab/Experiment-1/Sampling_Reconstruction.ipynb) |
+</details>
+
+<details>
+<summary><b>Experiment 2: Linear and Circular Convolution (2 Programs)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Linear_Convolution.m` | DSP | Implementation of Linear Convolution | [View](DSIP%20Lab/Experiment-2/Linear_Convolution.m) |
+| `Circular_Convolution.m` | DSP | Implementation of Circular Convolution | [View](DSIP%20Lab/Experiment-2/Circular_Convolution.m) |
+</details>
+
+<details>
+<summary><b>Experiment 3: Correlation (2 Programs)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Auto_Correlation.m` | DSP | Implementation of Auto Correlation | [View](DSIP%20Lab/Experiment-3/Auto_Correlation.m) |
+| `Cross_Correlation.m` | DSP | Implementation of Cross Correlation | [View](DSIP%20Lab/Experiment-3/Cross_Correlation.m) |
+</details>
+
+<details>
+<summary><b>Experiment 4: Discrete Fourier Transform (1 Program)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Discrete_Fourier_Transform.m` | Transform | Calculation of DFT and plotting Magnitude/Phase | [View](DSIP%20Lab/Experiment-4/Discrete_Fourier_Transform.m) |
+</details>
+
+<details>
+<summary><b>Experiment 5: Fast Fourier Transform (2 Programs)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Radix2_DIT_FFT.m` | Transform | Radix-2 Decimation In Time (DIT) FFT Algorithm | [View](DSIP%20Lab/Experiment-5/Radix2_DIT_FFT.m) |
+| `Radix2_DIT_Kernal.m` | Utility | Helper script for FFT Kernal computation | [View](DSIP%20Lab/Experiment-5/Radix2_DIT_Kernal.m) |
+</details>
+
+<details>
+<summary><b>Experiment 6: Image Enhancement Set 1 (2 Programs)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Image_Enhancement.m` | Enhancement | Negative, Log, and Power Law Transformations | [View](DSIP%20Lab/Experiment-6/Image_Enhancement.m) |
+| `Gray_Level_Slicing.m` | Enhancement | Gray Level Slicing and Thresholding | [View](DSIP%20Lab/Experiment-6/Gray_Level_Slicing.m) |
+</details>
+
+<details>
+<summary><b>Experiment 7: Image Enhancement Set 2 (2 Programs)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Contrast_Stretching.m` | Enhancement | Contrast Stretching and Dynamic Range Compression | [View](DSIP%20Lab/Experiment-7/Contrast_Stretching.m) |
+| `Bit_Plane_Slicing.m` | Enhancement | Bit Plane Slicing | [View](DSIP%20Lab/Experiment-7/Bit_Plane_Slicing.m) |
+</details>
+
+<details>
+<summary><b>Experiment 8: Histogram Processing (1 Program)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Histogram_Processing.m` | Enhancement | Histogram computation and equalization | [View](DSIP%20Lab/Experiment-8/Histogram_Processing.m) |
+</details>
+
+<details>
+<summary><b>Experiment 9: Smoothing & Sharpening (2 Programs)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Image_Smoothing.m` | Filtering | Image Smoothing (Gaussian/Avg Filter) | [View](DSIP%20Lab/Experiment-9/Image_Smoothing.m) |
+| `Image_Sharpening.m` | Filtering | Image Sharpening (Unsharp Masking) | [View](DSIP%20Lab/Experiment-9/Image_Sharpening.m) |
+</details>
+
+<details>
+<summary><b>Experiment 10: Edge Detection (1 Program)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Edge_Detection.m` | Segmentation | Edge Detection using Sobel and Prewitt operators | [View](DSIP%20Lab/Experiment-10/Edge_Detection.m) |
+</details>
+
+### Laboratory Documentation
 
 | # | Resource | Description |
 |:-:|:---|:---|
@@ -182,7 +296,7 @@ Previous year university question papers:
      ========================================================================================= -->
 ## Syllabus
 
-> [Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)  
+> **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
 > Complete Computer Engineering syllabus document from the University of Mumbai.
 
 > [!IMPORTANT]
@@ -191,7 +305,7 @@ Previous year university question papers:
 ---
 
 <!-- =========================================================================================
-                                     USAGE GUIDELINES
+                                     USAGE GUIDELINES SECTION
      ========================================================================================= -->
 ## Usage Guidelines
 
@@ -227,13 +341,15 @@ This repository and all linked academic content are made available under the **C
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey.
+This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Digital Signal and Image Processing & DSIP Lab.
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
 
 ### Acknowledgments
 
-Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College. Special thanks to mentors and peers for their support.
+Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction. Their clear teaching and continued support helped develop a strong understanding of signal processing principles.
+
+Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
 ---
 
@@ -245,7 +361,7 @@ Grateful acknowledgment to the faculty members of the Department of Computer Eng
   <!-- Footer Navigation -->
   **[↑ Back to Top](#digital-signal-and-image-processing-and-digital-signal-and-image-processing-lab)**
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Laboratory](#digital-signal-and-image-processing-laboratory)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)**
+  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Laboratory](#digital-signal-and-image-processing-laboratory)** &nbsp;·&nbsp; **[Internal Assessment Test](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
 
   <br>
 
