@@ -310,8 +310,8 @@ Previous year university question papers:
      ========================================================================================= -->
 ## Syllabus
 
-[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)  
-Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for DSIP and DSIP Lab.
+> [Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)  
+> Complete Final Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for DSIP and DSIP Lab.
 
 > [!IMPORTANT]
 > Always verify the latest syllabus details with the official University of Mumbai website, as curriculum updates may occur after this repository's archival date.
