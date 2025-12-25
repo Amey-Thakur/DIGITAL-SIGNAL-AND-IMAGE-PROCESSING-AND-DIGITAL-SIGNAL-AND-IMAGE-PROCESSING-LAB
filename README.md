@@ -367,7 +367,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  **[DSIP Lab](DSIP%20Lab/README.md)** &nbsp;·&nbsp; **[📚 Digital Bookstore](https://github.com/Amey-Thakur/DIGITAL-BOOKSTORE)**
+  **[DSIP Lab](DSIP%20Lab/README.md)**
 
 </div>
 
