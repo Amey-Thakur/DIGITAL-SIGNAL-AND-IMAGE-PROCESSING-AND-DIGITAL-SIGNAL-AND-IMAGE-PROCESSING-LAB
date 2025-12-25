@@ -5,7 +5,7 @@
 
   # Digital Signal and Image Processing Lab
 
-  ### CSL703 · Semester VII · Computer Engineering
+  ### CSL701 · Semester VII · Computer Engineering
 
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
   [![Documents](https://img.shields.io/badge/Documents-10-yellowgreen.svg)](#experiments)
@@ -250,7 +250,7 @@ Implementation of Edge Detection using Sobel and Prewitt Masks.
 
   ### [Digital Signal and Image Processing and Digital Signal and Image Processing Lab](https://github.com/Amey-Thakur/DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-AND-DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-LAB)
 
-  **CSL703 · Semester VII · Computer Engineering**
+  **CSL701 · Semester VII · Computer Engineering**
 
   *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
 
