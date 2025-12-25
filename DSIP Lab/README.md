@@ -105,10 +105,12 @@ Sampling and Reconstruction of a Signal
 
 **Date:** July 28, 2021
 
-| # | Document | Description | Link |
+| # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-1/AMEY_B-50_DSIP_EXPERIMENT-1.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Experiment-1/AMEY_B-50_DSIP_EXPERIMENT-1.docx) |
+| 1 | Sampling_Reconstruction.m | MATLAB implementation for sampling and reconstruction | [View](Experiment-1/Sampling_Reconstruction.m) |
+| 2 | Sampling_Reconstruction.ipynb | Python Jupyter Notebook implementation | [View](Experiment-1/Sampling_Reconstruction.ipynb) | 
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-1/AMEY_B-50_DSIP_EXPERIMENT-1.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-1/AMEY_B-50_DSIP_EXPERIMENT-1.docx) |
 
 ---
 
@@ -121,10 +123,12 @@ Linear and Circular Convolution of Discrete Signals
 
 **Date:** July 30, 2021
 
-| # | Document | Description | Link |
+| # | Program | Description | Source Code |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-2/AMEY_B-50_DSIP_EXPERIMENT-2.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Experiment-2/AMEY_B-50_DSIP_EXPERIMENT-2.docx) |
+| 1 | Linear_Convolution.m | MATLAB implementation for linear convolution | [View](Experiment-2/Linear_Convolution.m) |
+| 2 | Circular_Convolution.m | MATLAB implementation for circular convolution | [View](Experiment-2/Circular_Convolution.m) |
+| — | Lab Report (PDF) | Detailed experiment report | [View](Experiment-2/AMEY_B-50_DSIP_EXPERIMENT-2.pdf) |
+| — | Lab Report (DOCX) | Editable report file | [Download](Experiment-2/AMEY_B-50_DSIP_EXPERIMENT-2.docx) |
 
 ---
 
