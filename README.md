@@ -244,6 +244,8 @@ Internal assessment evaluations conducted during the course:
 
 ### IAT - 1
 
+**Date:** September 02, 2021
+
 | # | Resource | Description |
 |:-:|:---|:---|
 | 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_DSIP_IAT-1.pdf) | DSIP Internal Assessment Test 1 Answer Sheet |
