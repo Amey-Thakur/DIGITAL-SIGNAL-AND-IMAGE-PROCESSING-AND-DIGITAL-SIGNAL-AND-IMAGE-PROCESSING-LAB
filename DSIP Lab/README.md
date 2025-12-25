@@ -73,9 +73,9 @@
      ========================================================================================= -->
 ## Experiment 1: Sampling & Reconstruction
 
-Simulation of Sampling Theorem and Reconstruction of Signal.
+Sampling and Reconstruction of a Signal
 
-**Date:** July 14, 2021
+**Date:** 28/07/2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
@@ -89,9 +89,9 @@ Simulation of Sampling Theorem and Reconstruction of Signal.
      ========================================================================================= -->
 ## Experiment 2: Convolution
 
-Implementation of Linear and Circular Convolution.
+Linear and Circular Convolution of Discrete Signals
 
-**Date:** July 28, 2021
+**Date:** 30/07/2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
@@ -105,9 +105,9 @@ Implementation of Linear and Circular Convolution.
      ========================================================================================= -->
 ## Experiment 3: Correlation
 
-Implementation of Auto and Cross Correlation.
+Discrete Correlation of Signals
 
-**Date:** August 04, 2021
+**Date:** 11/08/2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
@@ -121,9 +121,9 @@ Implementation of Auto and Cross Correlation.
      ========================================================================================= -->
 ## Experiment 4: DFT
 
-Implementation of Discrete Fourier Transform (DFT).
+Discrete Fourier Transform (DFT) of a Sequence
 
-**Date:** August 11, 2021
+**Date:** 04/08/2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
@@ -137,7 +137,7 @@ Implementation of Discrete Fourier Transform (DFT).
      ========================================================================================= -->
 ## Experiment 5: FFT
 
-Implementation of Fast Fourier Transform (FFT).
+Radix-2 DIT FFT Algorithm.
 
 **Date:** August 25, 2021
 
@@ -151,9 +151,9 @@ Implementation of Fast Fourier Transform (FFT).
 <!-- =========================================================================================
                                      EXPERIMENT 6
      ========================================================================================= -->
-## Experiment 6: Image Transforms (Set 1)
+## Experiment 6: Image Transforms Set 1
 
-Image Negation, Thresholding, and Gray Level Slicing.
+Image Negative, Gray Level Slicing and Thresholding.
 
 **Date:** September 01, 2021
 
@@ -169,7 +169,7 @@ Image Negation, Thresholding, and Gray Level Slicing.
      ========================================================================================= -->
 ## Experiment 7: Image Transforms (Set 2)
 
-Contrast Stretching, Dynamic Range Compression, and Bit Plane Slicing.
+Contrast Stretching, Dynamic Range Compression and Bit Plane Slicing.
 
 **Date:** September 08, 2021
 
@@ -185,7 +185,7 @@ Contrast Stretching, Dynamic Range Compression, and Bit Plane Slicing.
      ========================================================================================= -->
 ## Experiment 8: Histogram Processing
 
-Implementation of Histogram Processing.
+Histogram Processing of an Image.
 
 **Date:** September 15, 2021
 
@@ -201,7 +201,7 @@ Implementation of Histogram Processing.
      ========================================================================================= -->
 ## Experiment 9: Smoothing & Sharpening
 
-Implementation of Image Smoothing and Sharpening.
+Image Smoothing and Image Sharpening.
 
 **Date:** October 06, 2021
 
@@ -217,7 +217,7 @@ Implementation of Image Smoothing and Sharpening.
      ========================================================================================= -->
 ## Experiment 10: Edge Detection
 
-Implementation of Edge Detection using Sobel and Prewitt Masks.
+Edge Detection using Sobel and Prewitt Masks.
 
 **Date:** October 06, 2021
 
