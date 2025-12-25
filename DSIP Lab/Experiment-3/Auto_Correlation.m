@@ -42,9 +42,9 @@ xlabel('Sample Index');
 ylabel('Amplitude');
 
 % -- -- -- -- -- -- -- -- -- -- -- -- -- -- -% Auto -
-    Correlation of Signal % -- -- -- -- -- -- -- -- -- -- -- -- -- -- -y =
+    Correlation Operation % -- -- -- -- -- -- -- -- -- -- -- -- -- -- -y =
     xcorr(x, x);
-% Auto - correlation of signal x
+% Auto - correlation of the signal
 
              % -- -- -- -- -- -- -- -- -- -- -- -- -- -- -%
              Plot Correlation Output %
