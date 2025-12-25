@@ -344,7 +344,7 @@ The documentation and organization may provide insights into academic resource c
 This repository and all linked academic content are made available under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**. See the [LICENSE](LICENSE) file for complete terms.
 
 > [!NOTE]
-> **Summary**: You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
+> **Summary:** You are free to share and adapt this content for any purpose, even commercially, as long as you provide appropriate attribution to the original author.
 
 ---
 
