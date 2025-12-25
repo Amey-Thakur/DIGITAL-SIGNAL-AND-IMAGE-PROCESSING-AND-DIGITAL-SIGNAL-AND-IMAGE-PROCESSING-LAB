@@ -8,7 +8,7 @@
   ### CSL701 · Semester VII · Computer Engineering
 
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
-  [![Documents](https://img.shields.io/badge/Documents-10-yellowgreen.svg)](#experiments)
+  [![Documents](https://img.shields.io/badge/Documents-10-yellowgreen.svg)](#experiment-1-sampling--reconstruction)
   [![Type](https://img.shields.io/badge/Type-PDF%20%7C%20DOCX-blueviolet.svg)](./)
 
   **A comprehensive collection of laboratory experiments for Digital Signal and Image Processing, covering signal generation, convolution, correlation, Fourier transforms, and image enhancement techniques.**
