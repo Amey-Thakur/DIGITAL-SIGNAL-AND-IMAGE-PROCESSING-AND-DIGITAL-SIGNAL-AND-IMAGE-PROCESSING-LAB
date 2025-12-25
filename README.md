@@ -249,11 +249,11 @@ Internal assessment evaluations conducted during the course:
 | 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_DSIP_IAT-1.pdf) | DSIP Internal Assessment Test 1 Answer Sheet | 17/20 |
 | 2 | [Marks](Internal%20Assessment%20Test/Terna%20Mail%20-%20marks%20IAT-1.pdf) | IAT-1 Marks | — |
 
-### IAT - 2
+### IAT - 2 · October 12, 2021
 
-| # | Resource | Description |
-|:-:|:---|:---|
-| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_DSIP_IAT-2.pdf) | DSIP Internal Assessment Test 2 Answer Sheet |
+| # | Resource | Description | Marks |
+|:-:|:---|:---|:-:|
+| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_DSIP_IAT-2.pdf) | DSIP Internal Assessment Test 2 Answer Sheet | — |
 
 ---
 
