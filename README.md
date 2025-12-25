@@ -113,7 +113,7 @@ The laboratory component (CSL701) focuses on hands-on implementation of signal p
 </div>
 
 > [!TIP]
-> **Lab Insight**: This laboratory curriculum progresses from 1D signal processing (Sampling, Convolution, DFT) to 2D image processing (Enhancement, Restoration, Segmentation), bridging theoretical concepts with practical implementation.
+> **Lab Manual**: For the complete experiment documentation, source code in **MATLAB** & **Python**, and output visualizations, visit the [**DSIP Lab**](DSIP%20Lab/) directory.
 
 | # | Experiment | Date | Marks | Report |
 |:-:|:---|:---:|:---:|:-:|
