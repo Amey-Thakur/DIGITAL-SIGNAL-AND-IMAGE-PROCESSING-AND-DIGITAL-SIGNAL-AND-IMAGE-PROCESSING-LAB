@@ -22,10 +22,10 @@
 ---
 
 > [!TIP]
-> **Lab Manual**: This directory contains comprehensive reports for all experiments conducted during the course.
+> **MATLAB Integration**: When working with signal processing experiments, always verify your sampling frequency meets the Nyquist criterion (fs ≥ 2*fmax). For image processing experiments, ensure images are in the correct format (grayscale vs RGB) before applying transforms. MATLAB's built-in functions like `imshow()` and `subplot()` are essential for visualizing intermediate results.
 
 > [!WARNING]
-> **MATLAB vs Python**: While the experiments cover the same theoretical concepts, ensure you are using the correct implementation files depending on your curriculum requirements.
+> **MATLAB vs Python**: Ensure you're using the correct implementation. MATLAB `.m` files provide direct integration with Signal Processing Toolbox functions (`fft()`, `conv()`, `filter()`), while Python implementations require NumPy/SciPy/OpenCV. File paths and image loading differ significantly between the two environments.
 
 ---
 
@@ -34,16 +34,38 @@
      ========================================================================================= -->
 ## How to Use
 
-### Viewing Reports
-1. **Navigate** to the desired experiment section.
-2. **Click** the "View" link for PDF format or "Download" for DOCX format.
-3. **PDF files** can be viewed directly in the browser.
-4. **DOCX files** require Microsoft Word or compatible software.
+### Running MATLAB Programs
+1. **Navigate** to the desired experiment folder.
+2. **Open** the `.m` file in MATLAB.
+3. **Run** the script by pressing `F5` or using the command window.
 
-### Using as Reference
-- Each experiment report follows the standard lab manual format.
-- Reports include problem statements, theoretical backgrounds, and detailed solutions.
-- Use these as templates for your own lab submissions.
+**Example:**
+```bash
+cd "DSIP Lab/Experiment-1"
+matlab -r "run('Sampling_Reconstruction.m')"
+```
+
+### Running Python Scripts
+**Environment Setup:**
+Ensure you have **Python 3.x** installed with required libraries:
+```bash
+pip install numpy matplotlib opencv-python scipy
+```
+
+**Execution:**
+1. **Navigate** to the experiment folder.
+2. **Run** the Python script:
+```bash
+cd "DSIP Lab/Experiment-1"
+python Sampling_Reconstruction.py
+```
+
+### Laboratory Reports
+Each experiment includes comprehensive PDF and DOCX reports covering:
+- **Problem Statement**: The specific signal/image processing challenge addressed.
+- **Theory**: The underlying mathematical concepts and algorithms.
+- **Implementation**: MATLAB/Python code explanation with execution screenshots.
+- Use these reports as a reference for structuring your own lab submissions.
 
 ---
 
@@ -52,19 +74,25 @@
      ========================================================================================= -->
 ## Learning Path
 
-**Fundamentals:**
-- Start with **Experiment 1** to grasp Scanning, Sampling, and Reconstruction of signals.
-- Move to **Experiments 2 & 3** to understand core operations like Convolution and Correlation.
+### Phase 1: Signal Fundamentals
+Foundation of signal generation and analysis.
+- **Experiment 1**: Master Sampling and Reconstruction to understand the Nyquist criterion.
+- **Experiments 2 & 3**: Implement Convolution and Correlation for signal processing operations.
 
-**Frequency Domain Analysis:**
-- Explore **Experiments 4 & 5** to master Discrete Fourier Transforms (DFT) and Fast Fourier Transforms (FFT).
+### Phase 2: Frequency Analysis
+Transform signals from time domain to frequency domain.
+- **Experiment 4**: Learn Discrete Fourier Transform (DFT) for spectral analysis.
+- **Experiment 5**: Optimize with Fast Fourier Transform (FFT) algorithms.
 
-**Image Enhancement:**
-- Study **Experiments 6 & 7** for point processing operations (Negation, Thresholding, Log, Power Law, Contrast Stretching).
-- Dive into **Experiment 8** for Histogram Processing.
+### Phase 3: Image Enhancement
+Point processing operations for improving image quality.
+- **Experiments 6 & 7**: Apply Image Transformations (Negative, Thresholding, Contrast Stretching, Bit Plane Slicing).
+- **Experiment 8**: Perform Histogram Processing for dynamic range enhancement.
 
-**Advanced Image Operations:**
-- Complete **Experiments 9 & 10** for Spatial Filtering (Smoothing/Sharpening) and Edge Detection techniques.
+### Phase 4: Spatial Filtering
+Advanced filtering techniques for image processing.
+- **Experiment 9**: Implement Smoothing and Sharpening filters for noise reduction and edge enhancement.
+- **Experiment 10**: Apply Edge Detection using Sobel and Prewitt masks.
 
 ---
 
