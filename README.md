@@ -33,7 +33,7 @@ Digital Signal and Image Processing (CSC701) and Digital Signal and Image Proces
 
 ### Course Topics
 
-The curriculum encompasses several key domains in DSIP:
+The curriculum encompasses several key domains in Digital Signal and Image Processing (DSIP):
 
 - **Discrete Time Signals & Systems**: Classification of signals and systems, convolution, correlation.
 - **Discrete Fourier Transform (DFT)**: Properties of DFT, Fast Fourier Transform (FFT) algorithms (DIT and DIF).
