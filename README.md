@@ -86,12 +86,14 @@ This collection includes **comprehensive reference materials** covering all majo
 
 Academic assignments for comprehensive learning and practice:
 
-| # | Assignment | Description | Report |
-|:-:|:---|:---|:-:|
-| 1 | [**Assignment 1**](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-1.pdf) | Fundamentals of Signals and Systems | [View](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-1.pdf) |
-| 2 | [**Assignment 2**](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-2.pdf) | DFT, FFT, and Transform Analysis | [View](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-2.pdf) |
-| 3 | [**Assignment 3**](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-3.pdf) | Image Enhancement and Restoration | [View](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-3.pdf) |
-| 4 | [**Assignment 4**](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-4.pdf) | Image Segmentation and Compression | [View](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-4.pdf) |
+| # | Assignment | Description |
+|:-:|:---|:---|
+| 1 | [**Assignment 1**](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-1.pdf) | Fundamentals of Signals and Systems |
+| 2 | [**Assignment 2**](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-2.pdf) | DFT, FFT, and Transform Analysis |
+| 3 | [**Assignment 3**](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-3.pdf) | Image Enhancement and Restoration |
+| 4 | [**Assignment 4**](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-4.pdf) | Image Segmentation and Compression |
+
+**Topics Covered**: Fundamentals of Signals and Systems · DFT, FFT, and Transform Analysis · Image Enhancement and Restoration · Image Segmentation and Compression
 
 ---
 
