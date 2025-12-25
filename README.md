@@ -310,11 +310,11 @@ Previous year university question papers:
      ========================================================================================= -->
 ## Syllabus
 
-> **[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)**  
-> Complete Computer Engineering syllabus document from the University of Mumbai.
+[Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)  
+Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for DSIP and DSIP Lab.
 
 > [!IMPORTANT]
-> Always verify the latest syllabus details with the official University of Mumbai website.
+> Always verify the latest syllabus details with the official University of Mumbai website, as curriculum updates may occur after this repository's archival date.
 
 ---
 
@@ -326,10 +326,13 @@ Previous year university question papers:
 This repository is openly shared to support learning and knowledge exchange across the academic community.
 
 **For Students**  
-Use these resources as reference materials for understanding signal and image processing concepts and preparing for examinations.
+Use these resources as reference materials for understanding digital signal and image processing concepts, DSP algorithms, and preparing for examinations. All content is organized for self-paced learning.
 
 **For Educators**  
-These materials may serve as curriculum references or lab examples. Attribution is appreciated when utilizing content.
+These materials may serve as curriculum references, lab examples, or supplementary teaching resources. Attribution is appreciated when utilizing content.
+
+**For Researchers**  
+The documentation and organization may provide insights into academic resource curation and educational content structuring.
 
 ---
 
