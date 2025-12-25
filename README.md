@@ -242,14 +242,12 @@ The laboratory component (CSL701) focuses on hands-on implementation of signal p
 
 Internal assessment evaluations conducted during the course:
 
-### IAT - 1
+### IAT - 1 · September 02, 2021
 
-**Date:** September 02, 2021
-
-| # | Resource | Description |
-|:-:|:---|:---|
-| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_DSIP_IAT-1.pdf) | DSIP Internal Assessment Test 1 Answer Sheet |
-| 2 | [Marks](Internal%20Assessment%20Test/Terna%20Mail%20-%20marks%20IAT-1.pdf) | IAT-1 Marks |
+| # | Resource | Description | Marks |
+|:-:|:---|:---|:-:|
+| 1 | [Answer Sheet](Internal%20Assessment%20Test/AMEY_B-50_DSIP_IAT-1.pdf) | DSIP Internal Assessment Test 1 Answer Sheet | 17/20 |
+| 2 | [Marks](Internal%20Assessment%20Test/Terna%20Mail%20-%20marks%20IAT-1.pdf) | IAT-1 Marks | — |
 
 ### IAT - 2
 
