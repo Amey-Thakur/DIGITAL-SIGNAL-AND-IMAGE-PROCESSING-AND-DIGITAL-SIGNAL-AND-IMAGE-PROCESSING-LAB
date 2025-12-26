@@ -364,7 +364,7 @@ This repository represents a comprehensive collection of study materials, refere
 
 ### Acknowledgments
 
-Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Digital Signal and Image Processing. Their clear teaching and continued support helped develop a strong understanding of DSP algorithms and image processing principles.
+Grateful acknowledgment to the faculty members of the Department of Computer Engineering at Terna Engineering College for their guidance and instruction in Digital Signal and Image Processing. Their clear teaching and continued support helped develop a strong understanding of digital signal processing algorithms and image processing principles.
 
 Special thanks to the mentors and peers whose encouragement, discussions, and support contributed meaningfully to this learning experience.
 
