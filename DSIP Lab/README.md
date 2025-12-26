@@ -286,7 +286,7 @@ Edge Detection using Sobel and Prewitt Masks.
 
   <br>
 
-  🏠 [Back to Main Repository](../)
+  🏠 **[Back to Main Repository](../)**
 
 </div>
 
