@@ -382,7 +382,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  🔬 **[DSIP Lab](DSIP%20Lab/README.md)**
+  🔬 **[Digital Signal and Image Processing Lab](DSIP%20Lab/README.md)**
 
 </div>
 
