@@ -16,7 +16,7 @@
 
   ---
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-sampling--reconstruction)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-convolution)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-correlation)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-dft)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-fft)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-image-transforms-set-1)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-image-transforms-set-2)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-histogram-processing)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-smoothing--sharpening)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-edge-detection)**
+  [How to Use](#how-to-use) &nbsp;·&nbsp; [Learning Path](#learning-path) &nbsp;·&nbsp; [Experiment 1](#experiment-1-sampling--reconstruction) &nbsp;·&nbsp; [Experiment 2](#experiment-2-convolution) &nbsp;·&nbsp; [Experiment 3](#experiment-3-correlation) &nbsp;·&nbsp; [Experiment 4](#experiment-4-dft) &nbsp;·&nbsp; [Experiment 5](#experiment-5-fft) &nbsp;·&nbsp; [Experiment 6](#experiment-6-image-transforms-set-1) &nbsp;·&nbsp; [Experiment 7](#experiment-7-image-transforms-set-2) &nbsp;·&nbsp; [Experiment 8](#experiment-8-histogram-processing) &nbsp;·&nbsp; [Experiment 9](#experiment-9-smoothing--sharpening) &nbsp;·&nbsp; [Experiment 10](#experiment-10-edge-detection)
 
 </div>
 
@@ -280,13 +280,13 @@ Edge Detection using Sobel and Prewitt Masks.
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#digital-signal-and-image-processing-lab)**
+  [↑ Back to Top](#digital-signal-and-image-processing-lab)
 
-  **[How to Use](#how-to-use)** &nbsp;·&nbsp; **[Learning Path](#learning-path)** &nbsp;·&nbsp; **[Experiment 1](#experiment-1-sampling--reconstruction)** &nbsp;·&nbsp; **[Experiment 2](#experiment-2-convolution)** &nbsp;·&nbsp; **[Experiment 3](#experiment-3-correlation)** &nbsp;·&nbsp; **[Experiment 4](#experiment-4-dft)** &nbsp;·&nbsp; **[Experiment 5](#experiment-5-fft)** &nbsp;·&nbsp; **[Experiment 6](#experiment-6-image-transforms-set-1)** &nbsp;·&nbsp; **[Experiment 7](#experiment-7-image-transforms-set-2)** &nbsp;·&nbsp; **[Experiment 8](#experiment-8-histogram-processing)** &nbsp;·&nbsp; **[Experiment 9](#experiment-9-smoothing--sharpening)** &nbsp;·&nbsp; **[Experiment 10](#experiment-10-edge-detection)**
+  [How to Use](#how-to-use) &nbsp;·&nbsp; [Learning Path](#learning-path) &nbsp;·&nbsp; [Experiment 1](#experiment-1-sampling--reconstruction) &nbsp;·&nbsp; [Experiment 2](#experiment-2-convolution) &nbsp;·&nbsp; [Experiment 3](#experiment-3-correlation) &nbsp;·&nbsp; [Experiment 4](#experiment-4-dft) &nbsp;·&nbsp; [Experiment 5](#experiment-5-fft) &nbsp;·&nbsp; [Experiment 6](#experiment-6-image-transforms-set-1) &nbsp;·&nbsp; [Experiment 7](#experiment-7-image-transforms-set-2) &nbsp;·&nbsp; [Experiment 8](#experiment-8-histogram-processing) &nbsp;·&nbsp; [Experiment 9](#experiment-9-smoothing--sharpening) &nbsp;·&nbsp; [Experiment 10](#experiment-10-edge-detection)
 
   <br>
 
-  **[🏠 Back to Main Repository](../)**
+  🏠 [Back to Main Repository](../)
 
 </div>
 
@@ -294,7 +294,7 @@ Edge Detection using Sobel and Prewitt Masks.
 
 <div align="center">
 
-  ### [Digital Signal and Image Processing and Digital Signal and Image Processing Lab](https://github.com/Amey-Thakur/DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-AND-DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-LAB)
+  ### [Digital Signal and Image Processing and Digital Signal and Image Processing Lab](../)
 
   **CSL701 · Semester VII · Computer Engineering**
 
