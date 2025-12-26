@@ -88,10 +88,10 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Description |
 |:-:|:---|:---|
-| 1 | [**Assignment 1**](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-1.pdf) | Fundamentals of Signals and Systems |
-| 2 | [**Assignment 2**](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-2.pdf) | DFT, FFT, and Transform Analysis |
-| 3 | [**Assignment 3**](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-3.pdf) | Image Enhancement and Restoration |
-| 4 | [**Assignment 4**](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-4.pdf) | Image Segmentation and Compression |
+| 1 | [Assignment 1](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-1.pdf) | Fundamentals of Signals and Systems |
+| 2 | [Assignment 2](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-2.pdf) | DFT, FFT, and Transform Analysis |
+| 3 | [Assignment 3](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-3.pdf) | Image Enhancement and Restoration |
+| 4 | [Assignment 4](Assignments/AMEY_B-50_DSIP_ASSIGNMENT-4.pdf) | Image Segmentation and Compression |
 
 **Topics Covered**: Fundamentals of Signals and Systems · DFT, FFT, and Transform Analysis · Image Enhancement and Restoration · Image Segmentation and Compression
 
@@ -310,7 +310,7 @@ Previous year university question papers:
      ========================================================================================= -->
 ## Syllabus
 
-> [Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)  
+> [**Official CBCGS Syllabus**](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)  
 > Complete Final Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for DSIP and DSIP Lab.
 
 > [!IMPORTANT]
@@ -376,13 +376,13 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#digital-signal-and-image-processing-and-digital-signal-and-image-processing-lab)**
+  [↑ Back to Top](#digital-signal-and-image-processing-and-digital-signal-and-image-processing-lab)
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Laboratory](#digital-signal-and-image-processing-laboratory)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Laboratory](#digital-signal-and-image-processing-laboratory) &nbsp;·&nbsp; [Internal Assessment Test](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
-  **[DSIP Lab](DSIP%20Lab/README.md)**
+  🔬 **[DSIP Lab](DSIP%20Lab/README.md)**
 
 </div>
 
