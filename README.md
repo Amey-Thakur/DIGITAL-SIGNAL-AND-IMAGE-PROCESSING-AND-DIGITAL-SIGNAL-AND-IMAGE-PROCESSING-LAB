@@ -358,7 +358,7 @@ This repository and all linked academic content are made available under the **C
 **Institution:** [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University:** [University of Mumbai](https://mu.ac.in/)
 
-This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Digital Signal and Image Processing and Digital Signal and Image Processing Lab.
+This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Digital Signal and Image Processing and Digital Signal and Image Processing Laboratory.
 
 **Connect:** [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
 
