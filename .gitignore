@@ -1,25 +1,21 @@
-# ALL REPOSITORIES
-# ----------------
-# General
+# Digital Signal and Image Processing - Academic Repository
+# Specialized .gitignore for signal processing and scholarly archiving
+
+# OS-generated files
+[Tt]humbs.db
+[Dd]esktop.ini
 .DS_Store
-Thumbs.db
-*.swp
-*.log
-*.tmp
-*.bak
-*~
+.AppleDouble
+.LSOverride
 
-# Windows
-desktop.ini
-$RECYCLE.BIN/
-
-# VS Code
+# Editor and IDE configuration
 .vscode/
-*.code-workspace
-
-# JetBrains
 .idea/
+*.swp
+*.swo
+*~
 *.iml
+*.code-workspace
 
 # MATLAB
 *.asv
@@ -32,12 +28,11 @@ $RECYCLE.BIN/
 *.mlappinstall
 *.mlpkginstall
 
-# Python
+# Python Build Artifacts
 __pycache__/
 *.py[cod]
 *$py.class
-venv/
-env/
+venv/ env/
 .env
 
 # Jupyter Notebook
@@ -52,7 +47,7 @@ env/
 ~$*.xls
 ~$*.xlsx
 
-# LaTeX (if used)
+# LaTeX / Document Artifacts
 *.aux
 *.bbl
 *.blg
@@ -62,6 +57,8 @@ env/
 *.lot
 *.out
 *.toc
+*.log
+*.synctex.gz
 
 # Archives
 *.zip
@@ -69,5 +66,13 @@ env/
 *.rar
 *.7z
 
-# Git
+# Temporary and Cache files
+*.tmp
+*.log
+.cache/
+
+# Academic build/output artifacts
+*.bak
+*.sav
+*.old
 *.orig
