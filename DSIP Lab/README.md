@@ -7,10 +7,10 @@
 
   ### CSL701 · Semester VII · Computer Engineering
 
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
-  [![Documents](https://img.shields.io/badge/Documents-10-yellowgreen.svg)](#experiment-1-sampling--reconstruction)
-  [![Language](https://img.shields.io/badge/Language-MATLAB%20%7C%20Python-orange.svg)](./)
-  [![Type](https://img.shields.io/badge/Type-PDF%20%7C%20DOCX-blueviolet.svg)](./)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
+  [![Documents](https://img.shields.io/badge/Documents-10-3949AB.svg)](#experiment-1-sampling--reconstruction)
+  [![Language](https://img.shields.io/badge/Language-MATLAB%20%7C%20Python-8250DF.svg)](./)
+  [![Type](https://img.shields.io/badge/Type-PDF%20%7C%20DOCX-546E7A.svg)](./)
 
   **A comprehensive collection of laboratory experiments for Digital Signal and Image Processing, covering signal generation, convolution, correlation, Fourier transforms, and image enhancement techniques.**
 
@@ -301,3 +301,4 @@ Edge Detection using Sobel and Prewitt Masks.
   *University of Mumbai · Curated by [Amey Thakur](https://github.com/Amey-Thakur)*
 
 </div>
+

@@ -10,9 +10,9 @@
   ### CSC701 & CSL701 · Semester VII · Computer Engineering
 
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
-  [![University](https://img.shields.io/badge/University-Mumbai-%23A6192E.svg)](https://mu.ac.in/)
-  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-orange.svg)](https://ternaengg.ac.in/)
-  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
+  [![University](https://img.shields.io/badge/University-Mumbai-A6192E.svg)](https://mu.ac.in/)
+  [![Institution](https://img.shields.io/badge/Institution-Terna%20Engineering%20College-E8710A.svg)](https://ternaengg.ac.in/)
+  [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-0969DA.svg)](https://github.com/Amey-Thakur)
 
   **A comprehensive academic resource for Digital Signal and Image Processing (DSIP) and Digital Signal and Image Processing Laboratory (DSIP Lab), covering signals, systems, DFT, FFT, image enhancement, and segmentation algorithms.**
 
@@ -107,9 +107,9 @@ The laboratory component (CSL701) focuses on hands-on implementation of signal p
 
 <div align="center">
 
-  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-yellowgreen.svg)](DSIP%20Lab/)
-  [![Status](https://img.shields.io/badge/Status-Complete-brightgreen.svg)](DSIP%20Lab/)
-  [![Language](https://img.shields.io/badge/Language-MATLAB%20%7C%20Python-orange.svg)](DSIP%20Lab/)
+  [![Total Experiments](https://img.shields.io/badge/Total%20Experiments-10-3949AB.svg)](DSIP%20Lab/)
+  [![Status](https://img.shields.io/badge/Status-Complete-2EA043.svg)](DSIP%20Lab/)
+  [![Language](https://img.shields.io/badge/Language-MATLAB%20%7C%20Python-8250DF.svg)](DSIP%20Lab/)
 
 </div>
 
