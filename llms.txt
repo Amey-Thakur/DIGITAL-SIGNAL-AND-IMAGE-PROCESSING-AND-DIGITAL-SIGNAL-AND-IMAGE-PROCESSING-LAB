@@ -1,0 +1,38 @@
+# Digital Signal and Image Processing and Digital Signal and Image Processing Lab
+
+> CSC701: Digital Signal and Image Processing [DSIP] & CSL701: Digital
+> Signal and Image Processing Lab [DSIP Lab] | BE Semester VII | Computer
+> Engineering
+
+Author: Amey Thakur, ORCID 0000-0001-5644-1575
+Co-author: Mega Satish, ORCID 0000-0002-1844-9557
+Institution: Terna Engineering College, University of Mumbai
+Programme: B.E. Computer Engineering, Fourth Year, Semester VII
+Course codes: CSC701, CSL701
+Licence: CC BY 4.0, attribution required
+Repository created: 28 July 2021
+Work dated: 19 January 2022
+
+## What is in this repository
+
+- Assignments, 4 files
+- DSIP Lab, 40 files
+- Internal Assessment Test, 3 files
+- Question Papers, 32 files
+- Reference Books, 48 files
+- Semester Exam, 1 file
+- Syllabus, 2 files
+
+## Subject terms
+
+computer-engineering, computer-science, dft-fft, digital-image-processing,
+digital-image-processing-lab, digital-signal-processing, digital-signals,
+edge-detection, engineering, image-processing, image-processing-matlab,
+matlab, matlab-programming, textbooks, university-of-mumbai
+
+## Where this sits
+
+- This repository: https://github.com/Amey-Thakur/DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-AND-DIGITAL-SIGNAL-AND-IMAGE-PROCESSING-LAB
+- Degree index, every subject and project: https://github.com/Amey-Thakur/COMPUTER-ENGINEERING
+- Author: https://github.com/Amey-Thakur
+- Research notes and reflections: https://amey-thakur.github.io/
